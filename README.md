@@ -4,8 +4,8 @@
 
 I am **Tom**.
 
-🌞 &nbsp;&nbsp; **Day** &nbsp;&nbsp;&nbsp; 👨‍💼 Salesforce Engineering Manager </br>
-🌘 &nbsp; **Night** &nbsp; 👨‍💻 Building tools, side projects, and home automation
+**Day** &nbsp;&nbsp;&nbsp;&nbsp; 👨‍💼 Salesforce Engineering Manager </br>
+**Night** &nbsp; 👨‍💻 Building tools, side projects, and home automation
 
 <br/>
 
