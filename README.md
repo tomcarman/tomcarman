@@ -17,7 +17,7 @@ I am **Tom**.
 
 🛠️ [sf-raven](https://github.com/tomcarman/sf-raven)  Salesforce CLI plugin with useful tools and utilities
 
-📋 [sf-nebula-dml-ops]([https://github.com/tomcarman/sf-nebula-dml-ops)  Light wrapper for Salesforce DML Operations, that logs to Nebula Logger.
+📋 [sf-nebula-dml-ops](https://github.com/tomcarman/sf-nebula-dml-ops)  Light wrapper for Salesforce DML Operations, that logs to Nebula Logger.
 
 #### Stats
 <a href="https://github.com/tomcarman">
