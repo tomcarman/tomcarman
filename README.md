@@ -11,13 +11,13 @@ I am **Tom**.
 
 #### Currently working on...
 
+🛠️ [sf-raven-cli](https://github.com/tomcarman/sf-raven-cli)  Salesforce CLI plugin with useful tools and utilities
+
+📋 [sf-nebula-dml-ops](https://github.com/tomcarman/sf-nebula-dml-ops)  Light wrapper for Salesforce DML Operations, that logs to Nebula Logger.
+
 ✈️ &nbsp;[skystats](https://github.com/tomcarman/skystats)  Application to consume a readsb feed from an ADS-B SDR and generate statistics
 
 🧹 [sf-metadata-lint](https://github.com/tomcarman/sf-metadata-linter)  Salesforce CLI plugin for linting metadata
-
-🛠️ [sf-raven](https://github.com/tomcarman/sf-raven)  Salesforce CLI plugin with useful tools and utilities
-
-📋 [sf-nebula-dml-ops](https://github.com/tomcarman/sf-nebula-dml-ops)  Light wrapper for Salesforce DML Operations, that logs to Nebula Logger.
 
 #### Stats
 <a href="https://github.com/tomcarman">
